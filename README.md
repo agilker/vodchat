@@ -1,5 +1,9 @@
 Video On Demand Chat [ Project for COMP 307 (Web Development) ]
 
+Matthew Etchells : 260680753
+Adam Gilker : 260676031 
+Chen Yue : 260909729
+
 To run the project, enter the vodchat directory, then run:
     
     python3 manage.py makemigrations
